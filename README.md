@@ -19,3 +19,18 @@ Which city are you from? Mumbai
 What is the name of your pet? Bruno
 
 Your band name could be: Mumbai Bruno
+```
+## Concepts Used
+print()
+input()
+Variables
+String concatenation
+
+## How to Run
+Make sure Python is installed on your computer.
+
+Run:
+```python3 band_name_generator.py```
+
+## What I Learned
+This project helped me practice taking user input, storing values in variables, and combining strings in Python.
